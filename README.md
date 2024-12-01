@@ -1,1 +1,1 @@
-# .NetReview
+# .NetReview class'lar için tekrar !
